@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "egj/IPRKrBU4020F43yVw6DXPfSSGKUE8ckS4lnah9o=",
+  "Source": "testdocker3",
+  "BasePath": "_content/testdocker3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
