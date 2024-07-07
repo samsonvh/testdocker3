@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\sources\\backend\\test\\testdocker3\\testdocker3\\testdocker3.csproj",
+      "projectUniqueName": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\testdocker3\\testdocker3\\testdocker3.csproj",
       "projectName": "testdocker3",
-      "projectPath": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\sources\\backend\\test\\testdocker3\\testdocker3\\testdocker3.csproj",
+      "projectPath": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\testdocker3\\testdocker3\\testdocker3.csproj",
       "packagesPath": "C:\\Users\\Samsonmeoww\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\sources\\backend\\test\\testdocker3\\testdocker3\\obj\\",
+      "outputPath": "D:\\Documents\\FU\\SUMMER2024\\SWP490\\testdocker3\\testdocker3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samsonmeoww\\AppData\\Roaming\\NuGet\\NuGet.Config",
